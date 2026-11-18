@@ -25,4 +25,4 @@ Desenvolvo com **Claude Code** e engenharia de prompts: mapeio o processo, espec
 
 ## Contato
 
-📍 Rio de Janeiro · 📧 rafaelavila1907@gmail.com · [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN)
+📍 Rio de Janeiro · 📧 rafaelavila1907@gmail.com · [LinkedIn](https://www.linkedin.com/in/rafael-avila-7b30aa341)
